@@ -29,11 +29,11 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
-  <a href="https://www.grepper.com/profile/henry-emnesty">
+  <a href="https://www.grepper.com/profile/henry-emnesty](https://www.upwork.com/freelancers/~0151a4d5c675f20670">
   <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
+       alt="Upwork" 
+       width="24px" 
+       src="https://github.com/HenrySaya/HenrySaya/assets/97274160/8b5d1381-5227-4dda-bd02-94a86da23e14"/>
   </a>
   
 <a href="mailto:henryemnesty@gmail.com">
@@ -67,11 +67,15 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/cf75cad4-503e-4750-a64c-d76f7ffe0735"></code>
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/f55088ad-628a-4ca9-8392-d5b95afb11a1"></code>
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/3d16f45e-4e55-4644-af42-507898a64160"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  
+
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/28cfed0f-c093-4d4d-934a-2860238d89f3"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
 
   </p>
   
@@ -81,8 +85,8 @@
 <p><H3 align="center"><strong>Skills to learn: 
  </strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/706edc0e-8216-4cd6-945b-5bb7d4d5acc8"></code>
+  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/79a9a6d1-d519-434a-a471-4bb69eadbfa1"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
