@@ -7,7 +7,11 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<p align="center">I would like to change the World but they won't give me the source code</p>
+
+<h3 align ="center">I'm always learning and growing, because the world of software is constantly changing</h3>
+
+<h2 align ="center">The best way to predict the future is to create it</h2>
   
   <!-- Social Network -->
 <h1 align="center">
@@ -55,7 +59,6 @@
 <p><H3 align="center"><strong> 
   Technical Skills: 
   </strong></p>
-  
  
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
