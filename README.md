@@ -22,7 +22,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/henry-emnesty-19a85122a/">
+<a href="https://www.linkedin.com/in/henry-saya/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
