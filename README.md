@@ -79,20 +79,6 @@
 
   </p>
   
-&nbsp;  
-
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 
- </strong></p>
-  
-  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/706edc0e-8216-4cd6-945b-5bb7d4d5acc8"></code>
-  <code><img height="40" src="https://github.com/HenrySaya/HenrySaya/assets/97274160/79a9a6d1-d519-434a-a471-4bb69eadbfa1"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
 &nbsp;
 
 <!-- GitHub Stats -->
