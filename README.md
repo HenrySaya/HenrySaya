@@ -66,7 +66,7 @@ You can reach out for:
 
 📫 **Email**: [henryemnesty@gmail.com]  
 💼 **LinkedIn**: [linkedin.com/in/henrysaya](https://linkedin.com/in/henrysaya)  
-🌐 **Portfolio**: [Coming Soon]  
+🌐 **Portfolio**: [Henry Saya](https://henrysaya.netlify.app/)  
 
 ---
 
